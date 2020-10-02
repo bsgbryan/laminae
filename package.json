@@ -1,0 +1,27 @@
+{
+  "name": "@bsgbryan/laminae",
+  "version": "0.1.0",
+  "description": "A suite of tools to make working with React Native apps even more fun",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lami": "cli.js"
+  },
+  "keywords": [],
+  "author": "Bryan Maynard <bsgbryan@gmail.com> (https://bsgbryan.com)",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  },
+  "main": "cli.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsgbryan/laminae.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bsgbryan/laminae/issues"
+  },
+  "homepage": "https://github.com/bsgbryan/laminae#readme"
+}
