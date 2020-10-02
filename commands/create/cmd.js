@@ -4,7 +4,7 @@ const laminae = Object.keys(create.laminae)
 
 module.exports = {
   name: 'create [slab]',
-  description: 'Create a slab',
+  description: 'Create a slab in an existing project',
   exec: create.fn,
   args: (args) => {
     args
