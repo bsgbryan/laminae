@@ -1,4 +1,4 @@
-Hi there :simple_smile:
+Hi there 😁
 ===
 
 Thanks for stopping by!
@@ -11,5 +11,5 @@ TL;DR
 To get going asap, just paste this into a terminal:
 
 ```bash
-npx lami help
+npx @bsgbryan/laminae help
 ```
