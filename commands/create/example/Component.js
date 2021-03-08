@@ -1,16 +1,14 @@
 import React from 'react'
 
-import { SafeAreaView } from 'react-native'
-
 import {
 } from './REPLACEStyles'
 
 const Component = ({
 
 }) =>
-  <SafeAreaView>
+  <div>
     {/* Your code goes here */}
-  </SafeAreaView>
+  </div>
 
 Component.displayName = 'REPLACE'
 

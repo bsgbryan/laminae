@@ -2,12 +2,12 @@ import { compose } from 'redux'
 import { connect } from 'react-redux'
 
 import {
-} from './REPLACEHocs'
+} from './REPLACEHOFs'
 
 import {
   actions,
   localState
-} from './REPLACEStateManager'
+} from './REPLACEPropsManager'
 
 import Component from './REPLACEComponent'
 

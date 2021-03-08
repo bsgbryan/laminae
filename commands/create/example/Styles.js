@@ -1,6 +1,1 @@
-import {
-  StyleSheet,
-  Platform
-} from 'react-native'
-
-
+// Styles fo here
